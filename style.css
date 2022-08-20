@@ -1,0 +1,7 @@
+body{
+    background: url(img/faq.png) no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
